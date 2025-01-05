@@ -1,0 +1,7 @@
+@inproceedings{REPO032,
+    author = "He, Hongliang and Huang, Zhongyi and Ding, Yao and Song, Guoli and Wang, Lin and Ren, Qian and Wei, Pengxu and Gao, Zhiqiang and Chen, Jie",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "4026--4035",
+    title = "{Cdnet: Centripetal direction network for nuclear instance segmentation}",
+    year = "2021"
+}
